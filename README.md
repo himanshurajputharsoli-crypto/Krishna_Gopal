@@ -1,4 +1,4 @@
 # Krishna_Gopal
 This is my free Git Repository
 <br>
-Author-Krishna gopal
+Author-Krishna gopal Rajput
